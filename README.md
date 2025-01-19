@@ -31,6 +31,10 @@ This project does not use a license.
 
 If you have any questions or would like to contribute, feel free to contact me via:
 
+[![Email](https://img.shields.io/badge/Email-adistian59@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adistian59@gmail.com)  
+[![Instagram](https://img.shields.io/badge/Instagram-%40adstian__-blue?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/adstian__)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Adistian%20Herlambang-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adistian-herlambang-1562a3198/)
+
 ```md
 [![Email](https://img.shields.io/badge/Email-adistian59@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adistian59@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-%40adstian__-blue?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/adstian__)
