@@ -97,7 +97,7 @@ def find_channels(keyword, min_subs=4000, max_subs=20000, days_since_last_video=
                     'country': country
                 })
     
-    print(f"Total channels meeting criteria for keyword '{keyword}': {len(result)}")  # Debug log
+    print(f"Total channels meeting criteria for keyword '{keyword}': {len(result)}")
 
     with open('channels.txt', 'a') as file: 
         for channel in result:
