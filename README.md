@@ -7,21 +7,24 @@ Python Youtube Channel Scrapper is a Python program that can search for YouTube 
 - Searches for YouTube channels based on the provided keywords.
 - Supports searching up to 101 keywords as an initial example.
 - Saves the search results (channel links) to the `channels.txt` file for further reference.
+- Supports multiple API keys stored in `API.txt` to avoid conflicts or rate limits on a single API key.
 
 ## Installation
 
 1. Make sure Python is installed on your system.
 2. Download or clone this repository.
 3. Customize the `keyword.txt` file with the desired search keywords.
+4. Add your YouTube Data API keys obtained from Google Cloud Console to `API.txt`. You can add multiple API keys, one per line.
 
 ## Usage
 
 1. Ensure the `keyword.txt` file contains the search keywords.
-2. Run the program using the following command in the terminal or command prompt:
+2. Ensure the `API.txt` file contains one or more valid YouTube Data API keys.
+3. Run the program using the following command in the terminal or command prompt:
    ```bash
    python main.py
    ```
-3. The search results will automatically be saved to the `channels.txt` file.
+4. The search results will automatically be saved to the `channels.txt` file.
 
 ## License
 
